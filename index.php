@@ -288,7 +288,8 @@
 						</div>
 					</section>
 				<ul id="copyright">
-					<li>&copy;UKZ-FSHK</li><li>Developed by:<br> Donat Dalipi & Blend Kurti</li>
+					<li>&copy;UKZ-FSHK</li><li>Developed by:<br> Donat Dalipi & Blend Kurti</li><br>
+                    <li>Other Participants:</li>
                     <li>Buen Bajrami, Shkurte Rexhepaj, Lirie Daku, Lumnije Aliu, Ljiridon Aljimi, Dalina Ibrahimi, Januz Hajrullahu</li>
 				</ul>
 			</div>
